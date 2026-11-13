@@ -70,4 +70,4 @@ python -m unittest discover -s tests -v
 
 This project is designed for learning and awareness. It is not a replacement for enterprise SIEM, EDR, or malware analysis tools.
 
-@adhrit-blip
+@adhrit-shep
